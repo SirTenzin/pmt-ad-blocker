@@ -1,4 +1,4 @@
-# PMT Adblocker Extension
+# PMT AdBlocker Extension
 
 A simple chrome extension that blocks adverts on PMT's PDF viewer. PMT likes to put a sidebar of adverts on their PDFs, with videos that half the time aren't even targeted - GCSE Chemistry on an A-Level Further Maths paper? Doesn't make sense. This extension removes the ads and the sidebar, so you can enjoy the PDFs in full size!
 
